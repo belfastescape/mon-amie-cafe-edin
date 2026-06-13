@@ -12,7 +12,7 @@ export const BUSINESS: MarigoldConfig = {
   "phone": "0131 000 0000",
   "email": "hello@monamiedinburgh.co.uk",
   "address": [
-    "2AHutchinson Terrace",
+    "2A Hutchinson Terrace",
     "Edinburgh"
   ]
 };
